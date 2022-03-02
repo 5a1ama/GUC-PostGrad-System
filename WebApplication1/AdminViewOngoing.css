@@ -1,0 +1,40 @@
+﻿#Button1 {
+    position: absolute;
+    top: 21px;
+    left: 17px
+}
+
+#Button2 {
+    position: absolute;
+    top: 21px;
+    left: 180px
+}
+
+#Button3 {
+    position: absolute;
+    top: 23px;
+    left: 319px
+}
+
+#Button4 {
+    position: absolute;
+    top: 21px;
+    left: 570px
+}
+
+#Button5 {
+    position: absolute;
+    top: 21px;
+    left: 740px;
+}
+
+#Table1 {
+    position: absolute;
+    top: 400px;
+    left: 400px;
+}
+#Label1 {
+    position: absolute;
+    top: 80px;
+    left: 300px;
+}

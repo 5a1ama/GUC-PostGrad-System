@@ -1,0 +1,19 @@
+﻿#Button1 
+{
+    position: absolute;
+    left: 110px;
+    top: 200px;
+}
+
+#Button2
+{
+    position: absolute;
+    left: 110px;
+    top: 550px;
+}
+#Button3 {
+    position: absolute;
+    left: 110px;
+    top: 800px;
+}
+

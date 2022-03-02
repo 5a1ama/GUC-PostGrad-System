@@ -1,0 +1,38 @@
+﻿#Button1{
+    position:absolute;
+    left:501px;
+    top: 123px;
+    height: 26px;
+    width: 70px;
+    right: 360px;
+}
+#TextBox1 {
+    position: absolute;
+    left: 419px;
+    top: 30px;
+}
+#TextBox2 {
+    position: absolute;
+    left: 419px;
+    top: 74px;
+}
+#Label1 {
+    position: absolute;
+    top: 29px;
+    height: 25px;
+    left: 346px;
+}
+
+#Label2 {
+    position: absolute;
+    left: 339px;
+    top: 74px;
+    height: 19px;
+}
+#Button2 {
+    position: absolute;
+    left: 384px;
+    top: 123px;
+    height: 26px;
+    width: 70px;
+}

@@ -1,0 +1,18 @@
+﻿#Button1 {
+    position: absolute;
+    left: 110px;
+    top: 350px;
+}
+#Button2 {
+    position: absolute;
+    left: 110px;
+    top: 550px;
+}
+
+#CheckBox1 {
+    position: absolute;
+    left: 280px;
+    top: 250px;
+}
+
+
